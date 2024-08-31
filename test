@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olson Events Co.</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="images/logo.png" alt="Olson Events Co." class="logo">
+            <nav>
+                <ul>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#team">Meet the Team</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#testimonials">Testimonials</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h1>Welcome to Olson Events Co.</h1>
+            <p>Crafting Unforgettable Experiences</p>
+            <a href="#contact" class="cta-button">Schedule a Consultation</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>Olson Events Co. is a premier event planning and management company based in Austin, Texas. We specialize in designing and executing events that are not only visually stunning but also deeply meaningful.</p>
+        </div>
+    </section>
+
+    <section id="team">
+        <div class="container">
+            <h2>Meet the Team</h2>
+            <div class="team-member">
+                <img src="images/zachary-siegel.jpg" alt="Zachary Siegel">
+                <h3>Zachary Siegel</h3>
+                <p>Founder & Lead Planner</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Services</h2>
+            <p>We offer a wide range of services designed to meet your specific needs.</p>
+        </div>
+    </section>
+
+    <section id="pricing">
+        <div class="container">
+            <h2>Pricing</h2>
+            <div class="pricing-option">
+                <h3>Event Design</h3>
+                <p><strong>Starting at $3,500</strong></p>
+                <p>Our design specialist will work with you to create a cohesive design that reflects your personal style.</p>
+            </div>
+            <div class="pricing-option">
+                <h3>Day-of Coordination</h3>
+                <p><strong>Starting at $2,650</strong></p>
+                <p>We’ll manage all aspects of the event on the day, ensuring that everything runs smoothly.</p>
+            </div>
+            <div class="pricing-option">
+                <h3>A La Carte Services</h3>
+                <p><strong>Starting at $250 per service</strong></p>
+                <p>These services can be added to any package or purchased individually, allowing you to customize your experience.</p>
+            </div>
+            <p>We also offer bespoke packages for clients with unique needs. Please contact us for a detailed quote and to discuss the best options for your event.</p>
+        </div>
+    </section>
+
+    <section id="testimonials">
+        <div class="container">
+            <h2>Testimonials</h2>
+            <blockquote>
+                <p>"Olson Events Co. transformed our vision into a reality. From the moment we met Zachary, we knew we were in good hands. The team’s attention to detail and ability to anticipate our needs made the planning process stress-free. Our wedding day was everything we dreamed of and more!"</p>
+                <cite>– Jessica & David, Bride & Groom</cite>
+            </blockquote>
+            <blockquote>
+                <p>"Working with Olson Events Co. was an absolute pleasure. They handled every aspect of our corporate event with professionalism and grace. Their ability to manage multiple vendors and ensure that everything ran smoothly was impressive. We received so many compliments from our guests, and we owe it all to Zachary and his team."</p>
+                <cite>– A Satisfied Corporate Client</cite>
+            </blockquote>
+            <blockquote>
+                <p>"Zachary and his team are simply the best! They took the time to understand our vision and made sure that every detail was perfect. The day-of coordination was flawless, allowing us to enjoy our wedding without any worries. We couldn’t have done it without them!"</p>
+                <cite>– Emma & Michael, Bride & Groom</cite>
+            </blockquote>
+        </div>
+    </section>
+
+    <section id="faq">
+        <div class="container">
+            <h2>Frequently Asked Questions</h2>
+            <h3>How far in advance should I book your services?</h3>
+            <p>We recommend booking as early as possible to ensure the availability of our services for your desired date. For full-service planning, we suggest reaching out at least 12 months in advance. However, we understand that timelines can vary, so don’t hesitate to contact us even if your event is sooner.</p>
+            <h3>Do you work with specific vendors?</h3>
+            <p>While we have a preferred vendor list that we trust and have worked with extensively, we are happy to collaborate with any vendors you choose. Our goal is to ensure that all vendors meet our high standards of quality and professionalism, ensuring a seamless experience for your event.</p>
+            <h3>Can I customize my package?</h3>
+            <p>Absolutely! We understand that every event is unique, which is why we offer customizable packages to suit your specific needs. Whether you need full-service coordination or just a few a la carte services, we’ll work with you to create a package that meets your requirements.</p>
+            <h3>What is your cancellation policy?</h3>
+            <p>Our cancellation policy varies depending on the services booked and the timeline of the cancellation. We understand that unexpected circumstances can arise, and we’ll work with you to find a solution that minimizes any potential impact. Please refer to your contract for specific details or contact us directly for more information.</p>
+            <h3>How do you handle last-minute changes?</h3>
+            <p>We are experienced in handling last-minute changes and will do everything in our power to accommodate your requests. Our team is skilled at problem-solving and will work quickly to adjust plans as needed, ensuring that your event goes off without a hitch.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Email: <a href="mailto:zachary@olsoneventsco.com">zachary@olsoneventsco.com</a></p>
+            <p>Phone: (512) 789-2103</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Olson Events Co. All rights reserved.</p>
+            <div class="social-links">
+                <a href="https://www.instagram.com/olsoneventsco" target="_blank">Instagram</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+body {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.logo {
+    max-width: 180px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav ul li {
+    margin-left: 30px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.1em;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #e91e63;
+}
+
+#hero {
+    background: linear-gradient(rgba(0, 0, 0,  |oai:code-citation|    
